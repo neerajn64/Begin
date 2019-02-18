@@ -12,3 +12,6 @@ Just wait for the next one to come.
 
 And dont let anyone tell you 
 what you are.
+
+This is Git-Hub.
+You can share your code here!
